@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/paulmolin42/la-plateforme-and-co/issues"
   },
-  "homepage": "https://github.com/paulmolin42/la-plateforme-and-co#readme"
+  "homepage": "https://github.com/paulmolin42/la-plateforme-and-co#readme",
+  "dependencies": {
+    "compression": "^1.5.0",
+    "errorhandler": "^1.4.0",
+    "loopback": "^2.18.0",
+    "loopback-boot": "^2.8.2",
+    "loopback-connector-mongodb": "^1.11.3",
+    "loopback-datasource-juggler": "^2.32.0",
+    "loopback-explorer": "^1.8.0"
+  }
 }
