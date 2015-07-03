@@ -12,4 +12,3 @@ Vagrant.configure(2) do |config|
     ansible.playbook = "provisioning/site.yml"
   end
 end
-

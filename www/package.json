@@ -1,0 +1,19 @@
+{
+  "name": "la-plateforme-and-co",
+  "version": "0.0.1",
+  "description": "Application Web pour la Plateforme & Co",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/paulmolin42/la-plateforme-and-co.git"
+  },
+  "author": "Paul Molin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmolin42/la-plateforme-and-co/issues"
+  },
+  "homepage": "https://github.com/paulmolin42/la-plateforme-and-co#readme"
+}
