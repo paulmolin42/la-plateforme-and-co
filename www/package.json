@@ -1,0 +1,28 @@
+{
+  "name": "la-plateforme-and-co",
+  "version": "0.0.1",
+  "description": "Application Web pour la Plateforme & Co",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/paulmolin42/la-plateforme-and-co.git"
+  },
+  "author": "Paul Molin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmolin42/la-plateforme-and-co/issues"
+  },
+  "homepage": "https://github.com/paulmolin42/la-plateforme-and-co#readme",
+  "dependencies": {
+    "compression": "^1.5.0",
+    "errorhandler": "^1.4.0",
+    "loopback": "^2.18.0",
+    "loopback-boot": "^2.8.2",
+    "loopback-connector-mongodb": "^1.11.3",
+    "loopback-datasource-juggler": "^2.32.0",
+    "loopback-explorer": "^1.8.0"
+  }
+}
